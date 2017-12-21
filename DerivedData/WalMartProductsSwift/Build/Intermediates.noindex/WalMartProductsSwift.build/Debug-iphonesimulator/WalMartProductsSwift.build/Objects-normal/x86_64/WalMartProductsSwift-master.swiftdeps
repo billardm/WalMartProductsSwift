@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "874dd0cbff43faf2505a3d21ca4f7b5d"
+build_time: [1513899473, 850958000]
+inputs:
+  "/Users/michael/Projects/WalMartProductsSwift/WalMartProductsSwift/AppDelegate.swift": [1513209064, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/Networking/ProductPageRequest.swift": [1513387293, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/Networking/Product.swift": [1513386697, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/WalMartProductsSwift/MasterViewController.swift": [1513805714, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/WalMartProductsSwift/DetailViewController.swift": [1513807516, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/DerivedData/WalMartProductsSwift/Build/Intermediates.noindex/WalMartProductsSwift.build/Debug-iphonesimulator/WalMartProductsSwift.build/DerivedSources/CoreDataGenerated/WalMartProductsSwift/Event+CoreDataClass.swift": [1513899473, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/DerivedData/WalMartProductsSwift/Build/Intermediates.noindex/WalMartProductsSwift.build/Debug-iphonesimulator/WalMartProductsSwift.build/DerivedSources/CoreDataGenerated/WalMartProductsSwift/Event+CoreDataProperties.swift": [1513899473, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/DerivedData/WalMartProductsSwift/Build/Intermediates.noindex/WalMartProductsSwift.build/Debug-iphonesimulator/WalMartProductsSwift.build/DerivedSources/CoreDataGenerated/WalMartProductsSwift/Page+CoreDataClass.swift": [1513899473, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/DerivedData/WalMartProductsSwift/Build/Intermediates.noindex/WalMartProductsSwift.build/Debug-iphonesimulator/WalMartProductsSwift.build/DerivedSources/CoreDataGenerated/WalMartProductsSwift/Page+CoreDataProperties.swift": [1513899473, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/DerivedData/WalMartProductsSwift/Build/Intermediates.noindex/WalMartProductsSwift.build/Debug-iphonesimulator/WalMartProductsSwift.build/DerivedSources/CoreDataGenerated/WalMartProductsSwift/Product+CoreDataClass.swift": [1513899473, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/DerivedData/WalMartProductsSwift/Build/Intermediates.noindex/WalMartProductsSwift.build/Debug-iphonesimulator/WalMartProductsSwift.build/DerivedSources/CoreDataGenerated/WalMartProductsSwift/Product+CoreDataProperties.swift": [1513899473, 0]
+  "/Users/michael/Projects/WalMartProductsSwift/DerivedData/WalMartProductsSwift/Build/Intermediates.noindex/WalMartProductsSwift.build/Debug-iphonesimulator/WalMartProductsSwift.build/DerivedSources/CoreDataGenerated/WalMartProductsSwift/WalMartProductsSwift+CoreDataModel.swift": [1513899473, 0]
